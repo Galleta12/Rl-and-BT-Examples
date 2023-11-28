@@ -1,0 +1,8 @@
+SplitView {
+    background-color: rgb(40, 40, 40); /* Dark gray background color */
+}
+
+.panel-header {
+    margin-left: 0;
+    padding-left: 10px;
+}
